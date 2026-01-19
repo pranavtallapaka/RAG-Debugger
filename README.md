@@ -77,7 +77,3 @@ Select an example from the dropdown menu in the Streamlit app, or manually copy 
 
 This is a skeleton project. Implementation details for each evaluator are pending.
 
-## License
-
-[Add your license here]
-
