@@ -1,0 +1,13 @@
+QUERY:
+What is the difference between supervised and unsupervised learning in machine learning?
+
+CHUNKS:
+Supervised learning is a type of machine learning where the algorithm learns from labeled training data. The model is trained on input-output pairs, where the correct output (label) is provided for each input example. Common examples include classification tasks like spam detection and regression tasks like predicting house prices. The key advantage is that the model can learn patterns directly from the labeled examples.
+
+Unsupervised learning involves training models on data without labeled examples. The algorithm must find hidden patterns or structures in the data on its own. Common techniques include clustering (grouping similar data points) and dimensionality reduction (reducing the number of features). Unlike supervised learning, there are no correct answers provided during training.
+
+Supervised learning algorithms require labeled datasets where each example has a known output. Popular algorithms include linear regression, decision trees, random forests, and neural networks. The training process involves minimizing the error between predicted and actual outputs. This approach works well when you have sufficient labeled data and clear objectives.
+
+Unsupervised learning is useful when you don't have labeled data or want to discover unknown patterns. K-means clustering groups data into clusters based on similarity, while principal component analysis (PCA) reduces dimensionality. These methods are valuable for exploratory data analysis and can reveal insights that weren't initially obvious.
+
+Python is a high-level programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991. Python supports multiple programming paradigms including procedural, object-oriented, and functional programming. It has a large standard library and is widely used in web development, data science, and automation.
